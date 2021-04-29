@@ -1,0 +1,13 @@
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\bin\Debug\Project2_1_Ethan_Nicholson.exe.config
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\bin\Debug\Project2_1_Ethan_Nicholson.exe
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\bin\Debug\Project2_1_Ethan_Nicholson.pdb
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.csprojAssemblyReference.cache
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.Form1.resources
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.Properties.Resources.resources
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.csproj.GenerateResource.cache
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.csproj.CoreCompileInputs.cache
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.exe
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.pdb
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.Form2.resources
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.Input_Output.resources
+C:\Users\catmi\source\repos\Project2_1_Ethan_Nicholson\Project2_1_Ethan_Nicholson\obj\Debug\Project2_1_Ethan_Nicholson.Mouser.resources
